@@ -1,50 +1,49 @@
 # Full Stack Developer Journey 🚀
 
-This repository documents my journey to becoming a **Full Stack Developer**.
-It contains Java fundamentals, backend mini-projects, and future full-stack applications.
+This repository documents my journey toward becoming a **Full Stack Developer with a strong backend focus**.
 
-The goal of this repository is to build strong foundations in **programming, backend development, and real-world project implementation**.
-
----
-
-## 👨‍💻 About Me
-
-I am currently transitioning into **Full Stack Development** with a strong focus on **Backend Engineering**.
-
-**Core Focus Areas**
-
-* Java Programming
-* Backend Development
-* Database Systems
-* Building Real-World Projects
+The goal of this repository is to build **strong programming fundamentals, backend engineering skills, and real-world project experience** while maintaining clean and professional code practices.
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
 
-**Languages**
+I am currently transitioning into **Full Stack Development**, focusing primarily on **Backend Engineering with Java**.
 
-* Java
-* SQL
+My learning approach emphasizes:
 
-**Tools**
-
-* IntelliJ IDEA
-* Git
-* GitHub
-
-**Upcoming Technologies**
-
-* Spring Boot
-* REST APIs
-* HTML
-* CSS
-* JavaScript
-* React
+• Writing clean and maintainable code
+• Understanding programming fundamentals deeply
+• Building real-world projects
+• Learning industry-standard development tools
 
 ---
 
-## 📂 Repository Structure
+# 🛠 Tech Stack
+
+## Languages
+
+• Java
+• SQL
+
+## Tools
+
+• IntelliJ IDEA
+• Git
+• GitHub
+
+## Upcoming Technologies
+
+• Spring Boot
+• REST APIs
+• HTML
+• CSS
+• JavaScript
+• React
+
+---
+
+# 📂 Repository Structure
 
 ```
 fullstack-journey
@@ -52,10 +51,10 @@ fullstack-journey
 ├── java-basics
 │   ├── variables
 │   ├── operators
-│   └── conditionals
+│   ├── conditionals
+│   └── loops
 │
 ├── backend-projects
-│   └── atm-simulator
 │
 ├── frontend-basics
 │
@@ -64,102 +63,121 @@ fullstack-journey
 
 ---
 
-## 📚 Java Fundamentals
+# 📚 Java Fundamentals
 
-This section contains core Java programs used to build a strong programming foundation.
+This section focuses on building a strong foundation in **core programming concepts using Java**.
 
-### Variables
+## Variables
 
-* HelloWorld
-* MyInfo
-* Swap Numbers
+Programs:
 
-### Operators
+• HelloWorld
+• MyInfo
+• SwapNumbers
 
-* Arithmetic Operators
+Concepts Covered:
 
-### Conditionals
-
-* Even or Odd Checker
-* Largest Number Finder
-* Salary Bonus Calculator
-
-These exercises focus on:
-
-* Program structure
-* Data types
-* Conditional logic
-* Clean coding practices
+• Program structure
+• Variables
+• Data types
+• Console output
 
 ---
 
-## 🏧 Backend Mini Projects
+## Operators
 
-### ATM Simulator
+Programs:
 
-A simple console-based ATM system.
+• Arithmetic Operators
 
-**Features**
+Concepts Covered:
 
-* Check Balance
-* Deposit Money
-* Withdraw Money
-* Transaction Logic
-
-This project demonstrates:
-
-* Business logic implementation
-* Conditional flows
-* User interaction
+• Mathematical operations
+• Operator usage
 
 ---
 
-## 📈 Learning Roadmap
+## Conditionals
 
-This repository will progressively include:
+Programs:
 
-**Java Foundations**
+• Even or Odd Checker
+• Largest Number Finder
+• Salary Bonus Calculator
 
-* Variables
-* Operators
-* Conditionals
-* Loops
-* Data Structures
+Concepts Covered:
 
-**Backend Development**
-
-* Spring Boot APIs
-* Database Integration
-* Authentication Systems
-
-**Frontend Development**
-
-* HTML
-* CSS
-* JavaScript
-* React
-
-**Full Stack Projects**
-
-* Task Manager
-* Banking System
-* Job Portal
+• if / else logic
+• decision making in programs
 
 ---
 
-## 🎯 Objective
+## Loops
 
-To build strong software engineering fundamentals and develop production-ready full stack applications.
+Programs:
+
+• Print numbers from 1 to MaxLimit
+• Print even numbers from 1 to MaxLimit
+• Sum of numbers from 1 to MaxLimit
+• Multiplication table from 1 to MaxLimit
+
+Concepts Covered:
+
+• for loops
+• iterative logic
+• basic algorithmic thinking
 
 ---
 
-## 📌 Future Improvements
+# 📈 Learning Roadmap
 
-* Spring Boot REST APIs
-* Database integration (Oracle / MySQL)
-* Full stack web applications
-* System design concepts
+This repository will progressively include the following technologies and concepts.
+
+## Java Foundations
+
+• Variables
+• Operators
+• Conditionals
+• Loops
+• Methods
+• Object-Oriented Programming
+• Data Structures
 
 ---
 
-⭐ This repository will continue evolving as I progress in my Full Stack Developer journey.
+## Backend Development
+
+• Spring Boot APIs
+• RESTful services
+• Database integration
+• Authentication systems
+
+---
+
+## Frontend Development
+
+• HTML
+• CSS
+• JavaScript
+• React
+
+---
+
+## Planned Projects
+
+Future projects that will be added to this repository:
+
+• ATM Simulator
+• Task Manager
+• Banking System
+• Job Portal
+
+---
+
+# 🎯 Objective
+
+To build **strong software engineering fundamentals** and develop **production-ready full stack applications** while maintaining clean architecture and scalable code practices.
+
+---
+
+⭐ This repository will continue evolving as I progress in my **Full Stack Developer journey**.

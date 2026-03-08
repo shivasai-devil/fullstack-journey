@@ -13,7 +13,7 @@ public class MultiplicationTable {
 
         for(int counter = 1;counter <= maxLimit;counter++){
 
-            System.out.println(num+" x "+counter+" = "+num * counter);
+            System.out.println(num+" x "+counter+" = "+(num * counter));
 
         }
         scanner.close();
