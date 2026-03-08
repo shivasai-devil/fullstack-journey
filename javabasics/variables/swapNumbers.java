@@ -1,3 +1,5 @@
+package javabasics.variables;
+
 public class swapNumbers {
     public static void main (String[] args){
         int first_number=15;

@@ -1,3 +1,5 @@
+package javabasics.conditionals;
+
 public class largestNumber {
     public static void main(String[] args) {
         int firstNumber = 600;

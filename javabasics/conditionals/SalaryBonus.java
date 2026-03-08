@@ -1,3 +1,5 @@
+package javabasics.conditionals;
+
 public class SalaryBonus {
     public static void main(String[] args){
         long salary = 38291;

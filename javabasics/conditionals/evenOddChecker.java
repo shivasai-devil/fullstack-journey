@@ -1,3 +1,5 @@
+package javabasics.conditionals;
+
 public class evenOddChecker {
     public static void main(String[] args){
         int temp_number=455;

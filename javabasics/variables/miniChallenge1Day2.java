@@ -1,3 +1,5 @@
+package javabasics.variables;
+
 public class miniChallenge1Day2 {
     public static void main (String[] args){
         String name="shiva_sainath_sama";

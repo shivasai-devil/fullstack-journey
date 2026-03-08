@@ -1,3 +1,5 @@
+package javabasics.variables;
+
 public class myInfo {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package javabasics.loops;
+
 import java.util.Scanner;
 
 public class MultiplicationTable {
