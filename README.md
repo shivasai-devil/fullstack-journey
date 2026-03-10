@@ -48,17 +48,18 @@ My learning approach emphasizes:
 ```
 fullstack-journey
 │
-├── java-basics
+├── javabasics
+│   │
 │   ├── variables
 │   ├── operators
 │   ├── conditionals
-│   └── loops
+│   ├── loops
+│   └── nestedloops
 │
 ├── backend-projects
-│
 ├── frontend-basics
-│
-└── fullstack-projects
+├── fullstack-projects
+└── README.md
 ```
 
 ---
@@ -67,7 +68,9 @@ fullstack-journey
 
 This section focuses on building a strong foundation in **core programming concepts using Java**.
 
-## Variables
+---
+
+# Variables
 
 Programs:
 
@@ -84,11 +87,11 @@ Concepts Covered:
 
 ---
 
-## Operators
+# Operators
 
 Programs:
 
-• Arithmetic Operators
+• ArithmeticOperators
 
 Concepts Covered:
 
@@ -97,13 +100,13 @@ Concepts Covered:
 
 ---
 
-## Conditionals
+# Conditionals
 
 Programs:
 
-• Even or Odd Checker
-• Largest Number Finder
-• Salary Bonus Calculator
+• EvenOddChecker
+• LargestNumberFinder
+• SalaryBonusCalculator
 
 Concepts Covered:
 
@@ -112,20 +115,48 @@ Concepts Covered:
 
 ---
 
-## Loops
+# Loops
 
 Programs:
 
-• Print numbers from 1 to MaxLimit
-• Print even numbers from 1 to MaxLimit
-• Sum of numbers from 1 to MaxLimit
-• Multiplication table from 1 to MaxLimit
+• PrintUptoMaxLimit
+• PrintEvenUptoMaxLimit
+• SumUptoMaxLimit
+• MultiplicationTable
 
 Concepts Covered:
 
 • for loops
 • iterative logic
-• basic algorithmic thinking
+• accumulation patterns
+
+---
+
+# Nested Loops & Pattern Programs
+
+Programs implemented:
+
+• StarPattern
+• ReverseStarPattern
+• RightAlignedStarPattern
+• ReverseRightAlignedStarPattern
+• PyramidPattern
+• ReversePyramidPattern
+• DiamondPattern
+• NumberPattern
+• RunningNumberPattern
+• RunningCharacterPattern
+
+Concepts Covered:
+
+• Nested loops
+• Pattern logic
+• Space and alignment control
+• Incremental sequences
+• Character iteration
+• Reusable pattern methods
+
+These exercises help develop **algorithmic thinking and loop control**, which are essential for solving programming problems and coding interviews.
 
 ---
 
@@ -139,6 +170,7 @@ This repository will progressively include the following technologies and concep
 • Operators
 • Conditionals
 • Loops
+• Nested Loops
 • Methods
 • Object-Oriented Programming
 • Data Structures
@@ -180,4 +212,4 @@ To build **strong software engineering fundamentals** and develop **production-r
 
 ---
 
-⭐ This repository will continue evolving as I progress in my **Full Stack Developer journey**.
+⭐ This repository will continue evolving as I progress through my **Full Stack Developer journey**.
